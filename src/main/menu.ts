@@ -55,7 +55,7 @@ export default class MenuBuilder {
   buildDarwinTemplate(): MenuItemConstructorOptions[] {
     const subMenuAbout: DarwinMenuItemConstructorOptions = {
       // First menu option
-      label: 'NavX',
+      label: 'NavXS',
       submenu: [
         {
           label: 'About',
