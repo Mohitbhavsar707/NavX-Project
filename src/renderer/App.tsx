@@ -9,7 +9,7 @@ const Hello = () => {
         <img width="200" alt="icon" src={icon} />
       </div>
       <div className="main-header">
-        <h1>NavX Software Manager</h1>
+        <h1>NavX Software </h1>
       </div>
       <div className="Hello">
         <a href="https://www.studica.com/" target="_blank" rel="noreferrer">
